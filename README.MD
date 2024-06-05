@@ -36,7 +36,6 @@ Este projeto tem como objetivo gerar um artigo técnico com um layout rico e uma
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- [Google Slides](https://www.google.com/slides/about/) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -51,8 +50,9 @@ Lexica.art：
 
 - No Lexica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
 
-  - "Lixo nos oceanos"
-  - "Tartarugas marinhas"
+  - "Trash on Ocean"
+  - "Recicly"
+  - "Wall-e Robot"
 
 ## ✨ Features
 
@@ -76,16 +76,16 @@ Lexica.art：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://scontent.cdninstagram.com/v/t51.2885-19/442450760_2442332962629395_1905472428168208141_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_ohc=ZW1L7w3jHZIQ7kNvgFEt0-b&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYABK_9yye6tjn_DdNYtDnr-m95fRmlBhR3nKyAuPglO4w&oe=66665A88&_nc_sid=10d13b"
     />
     <p>&nbsp&nbsp&nbspKeven Santos<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/kkee95">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/kevensantos">
+    <a href="https://www.linkedin.com/in/keven-santos-384353268/">
     LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/kevensantos/">
+    <a href="https://www.instagram.com/kevensantuz/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
