@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/Image/A Pixar wall-e robot wearing sunglasses.jpg">
+    <img width="100" src=".github/Image/A_Pixar_wall-e_robot_wearing_sunglasses-removebg-preview.png">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <img 
-    src=".github/Image/human Man's body is made of engine parts.jpg"
+    src=".github/Image/human_Man_s_body_is_made_of_engine_parts-removebg-preview.png"
     width="400"  
   />
 </p>
