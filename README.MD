@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/Image/back view of a Silhouette of a girl in a dump full.jpg">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".github/Image/human Man's body is made of engine parts.jpg"
     width="400"  
   />
 </p>
@@ -23,8 +23,8 @@
  > ℹ️ **NOTE:** Este é o repositório do projeto que visa gerar um artigo técnico utilizando inteligência artificial, desenvolvido por [Keven Santos](https://github.com/kkee95).
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
+  <a href="https://www.youtube.com/watch?v=KWIEnztOXJU" title="O Lixo Nosso de Cada Dia">
+  <img src=".github/Image/A photo of a man taking a garbage bag out to a dum.jpg" width="80%">
   </a>
 <p>
 
