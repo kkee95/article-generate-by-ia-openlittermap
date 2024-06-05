@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/Image/back view of a Silhouette of a girl in a dump full.jpg">
+    <img width="100" src=".github/Image/A Pixar wall-e robot wearing sunglasses.jpg">
 </p>
 
 <p align="center">
